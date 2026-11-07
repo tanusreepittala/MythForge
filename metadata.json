@@ -1,0 +1,6 @@
+{
+  "name": "MythForge - Fantasy Character Generator",
+  "description": "Generate unique fantasy heroes, mages, rogues, and warriors with rich lore, attributes, and equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
